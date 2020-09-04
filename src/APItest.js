@@ -20,6 +20,7 @@ class APItest extends React.Component {
             .then(resp => resp.json())
             .then(result => console.log(result))
 
+            
     }
 
         render () {
